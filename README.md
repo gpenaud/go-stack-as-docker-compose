@@ -1,1 +1,1 @@
-# go-stack-as-docker-compose
+# Needys infrastructure based on docker-compose
